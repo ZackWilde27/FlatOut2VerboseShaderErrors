@@ -1,6 +1,8 @@
 # FlatOut2VerboseShaderErrors
 A mod for FlatOut 2 in the same vein as VerboseLUAErrors, except it shows shader errors
 
+It's the ShaderValidator from my HLSLToFlatOutShader, but built into the game
+
 ## Using
 *This mod requires the xnya mod loader*
 
